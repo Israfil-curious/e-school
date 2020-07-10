@@ -48,9 +48,13 @@
     color: gray;
 }
 
+.part2-full {
+    margin-top: 30px;
+}
+
 .part2 {
     height: 200px;
-    margin: 50px;
+    margin-right: 7%;
 }
 
 .part2 img {
