@@ -1,0 +1,146 @@
+.for-bg-color {
+    background-color: #F0FFF0;
+}
+
+#link1,
+#link2,
+#link3,
+#link4 {
+    color: black;
+}
+
+.logo img {
+    width: 30%;
+}
+
+.logo {
+    width: 70%;
+}
+
+.sing-in-button {
+    padding: 5px 15px;
+    background-color: coral;
+    border-radius: 25px;
+    border: none;
+}
+
+.image1 img {
+    width: 100%;
+}
+
+.part {
+    margin-top: 50px;
+}
+
+.part h1 {
+    font-weight: 900;
+}
+
+.sch-color {
+    color: orange;
+}
+
+#learn {
+    color: olive;
+}
+
+.part p {
+    color: gray;
+}
+
+.part2 {
+    height: 200px;
+    margin: 50px;
+}
+
+.part2 img {
+    width: 35%;
+    margin-top: 30px;
+}
+
+.col {
+    width: 20%;
+    margin-left: 6%;
+    border-radius: 5px;
+}
+
+.col:hover {
+    box-shadow: 7px 7px 15px lightgray;
+}
+
+.topic {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.topic h4 {
+    color: #413960;
+}
+
+.topic p {
+    color: gray;
+}
+
+.courses h2 {
+    text-align: center;
+    font-weight: 800;
+    margin: 70px;
+    color: #413960;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px rgb(94, 223, 223);
+    border-radius: 14px;
+}
+
+.card-footer img {
+    width: 15%;
+}
+
+.card-footer {
+    color: #585859;
+    border: none;
+}
+
+.testimonial h2 {
+    font-weight: 800;
+    color: #000;
+    margin: 50px;
+    text-align: center;
+}
+
+.testimonial-img {
+    width: 11%;
+}
+
+.testimonial-img img {
+    width: 100%;
+}
+
+#testi-para {
+    margin-left: 5%;
+    font-weight: 500;
+    color: black;
+}
+
+.footer-bg {
+    background-color: #282531;
+    margin-top: 70px;
+}
+
+.page-footer {
+    color: whitesmoke;
+    padding-top: 50px;
+}
+
+.page-footer h6 {
+    color: #d3e0e0;
+}
+
+.copyright {
+    text-align: center;
+    color: #CDCDCD;
+    margin-top: 5%;
+    padding-bottom: 2%;
+}
